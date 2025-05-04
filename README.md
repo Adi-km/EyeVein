@@ -107,7 +107,7 @@ redeye2/
 
 ---
 
-### `saved_weights/`
+### `Saved Weights`
 
 * `stage1_weights.pth`: Weights for stage1 (Sclera Segmentation)
 * `stage2_weights.pth`: Weights for stage2 (Vessels Segmentation)
