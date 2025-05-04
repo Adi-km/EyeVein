@@ -1,5 +1,3 @@
-[🔗 Live Demo](https://veinscope.netlify.app) 
-
 # 🧠 VeinScope – Tear Vein Pattern Analysis for Early Disease Mapping
 
 ## 🔬 Project Overview
@@ -225,5 +223,5 @@ Use the notebook `pipeline.ipynb` to test and visualize the full segmentation pi
 ![Screenshot](./stages/App_image/B.jpeg)
 ![Screenshot](./stages/App_image/C.jpeg)
 
-### Website
+### [🔗Website] (https://veinscope.netlify.app)
 
