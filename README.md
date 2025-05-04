@@ -226,5 +226,5 @@ Use the notebook `pipeline.ipynb` to test and visualize the full segmentation pi
 <img src="./stages/App_image/A.jpeg" width="300"/>
 <img src="./stages/App_image/B.jpeg" width="300"/>
 
-### [🔗Website] (https://veinscope.netlify.app)
+### [🔗 Website](https://veinscope.netlify.app)
 
