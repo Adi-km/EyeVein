@@ -219,9 +219,9 @@ Use the notebook `pipeline.ipynb` to test and visualize the full segmentation pi
 ## 🧪 Uses
 
 ### App
-![Screenshot](./stages/App_images/A.jpeg)
-![Screenshot](./stages/App_images/B.jpeg)
-![Screenshot](./stages/App_images/C.jpeg)
+![Screenshot](./stages/App_image/A.jpeg)
+![Screenshot](./stages/App_image/B.jpeg)
+![Screenshot](./stages/App_image/C.jpeg)
 
 ### Website
 
