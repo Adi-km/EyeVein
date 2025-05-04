@@ -101,16 +101,16 @@ redeye2/
 |
 ├── README.md
 │
-├── checkpoint2_epoch_5.pth    # Trained DeepLabV3+ model after 5 epochs
-├── checkpoint2_epoch_50.pth   # Final trained model after 50 epochs (used for deployment)
+├── stage1_weights.pth    # Trained DeepLabV3+ model after 5 epochs
+├── stage2_weights.pth   # Final trained model after 50 epochs (used for deployment)
 ```
 
 ---
 
-### 📂 `checkpoints/`
+### `saved_weights/`
 
-* `checkpoint2_epoch_5.pth`: Initial model checkpoint
-* `checkpoint2_epoch_50.pth`: Final, stable model for deployment
+* `stage1_weights.pth`: Weights for stage1 (Sclera Segmentation)
+* `stage2_weights.pth`: Weights for stage2 (Vessels Segmentation)
 
 Used by both segmentation stages during inference.
 
